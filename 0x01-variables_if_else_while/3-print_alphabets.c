@@ -3,7 +3,8 @@
 /**
  * main - This prints an alphabet in lowercase, and then in uppercase,
  * followed by a new line(\n)
- * Return - Is always 0
+ *
+ * Return:  Is always 0
  */
 int main(void)
 {
